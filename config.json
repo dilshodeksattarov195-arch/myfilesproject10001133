@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheupdate",
+        "uuid": 8900848,
+        "checksum": "cytfhh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
